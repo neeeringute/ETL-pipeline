@@ -1,5 +1,3 @@
-The project aims to create an ETL pipeline. ETL is a data pipeline that collects data from different sources, transforms it according to business requirements, and loads it into a destination data storage.
-
 # ETL Pipeline v1
 ![Web capture_25-1-2024_123919_](https://github.com/neeeringute/ETL-pipeline/assets/145553499/f6393f48-bda2-4f1e-b270-9fe6335db710)
 
